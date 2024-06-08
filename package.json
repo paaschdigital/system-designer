@@ -44,7 +44,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "ace-builds": "1.32.3",
+    "ace-builds": "1.33.2",
     "bootstrap": "3.4.1",
     "codemirror": "5.65.16",
     "github-api": "3.4.0",
